@@ -21,3 +21,9 @@ heute habe ich mit Programieren begonnen erste zeilen in phyton geschriben.
 
 # 17.01.2025
 heute werde ich nur an LB von modul 450 arbeiten
+
+Ich habe an dem Modul gearbeitet und bin damit fast fertig geworden
+# 24.01.2025
+ich werde noch weiter an meinem Taschenrechner arbeiten.
+Ap1: ich werde ein touturial zum diesem Thema sehen und damit mein wissen in phyton verbessern
+ap2: 
