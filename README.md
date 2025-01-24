@@ -26,4 +26,5 @@ Ich habe an dem Modul gearbeitet und bin damit fast fertig geworden
 # 24.01.2025
 ich werde noch weiter an meinem Taschenrechner arbeiten.
 Ap1: ich werde ein touturial zum diesem Thema sehen und damit mein wissen in phyton verbessern
-ap2: 
+AP2: Erweiterte Funktionen hinzufügen
+Ap3: Benutzereingaben verarbeiten
