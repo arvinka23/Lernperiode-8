@@ -28,3 +28,4 @@ ich werde noch weiter an meinem Taschenrechner arbeiten.
 Ap1: ich werde ein touturial zum diesem Thema sehen und damit mein wissen in phyton verbessern
 AP2: Erweiterte Funktionen hinzufügen
 Ap3: Benutzereingaben verarbeiten
+ich habe heute geanu nach dem plan vorgegangen und mein Taschenrechner wurde fast fertig.
