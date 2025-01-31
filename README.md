@@ -29,3 +29,8 @@ Ap1: ich werde ein touturial zum diesem Thema sehen und damit mein wissen in phy
 AP2: Erweiterte Funktionen hinzufügen
 Ap3: Benutzereingaben verarbeiten
 ich habe heute geanu nach dem plan vorgegangen und mein Taschenrechner wurde fast fertig.
+
+# 31.01.2025
+AP 1 – Benutzer kann mehrere Berechnungen nacheinander machen (while-Schleife)
+AP 2 – Fortgeschrittenes Exception Handling für alle möglichen Fehler
+AP 3 – Programm verbessert die Ausgabe mit besserer Formatierung & Farben
