@@ -1,0 +1,13 @@
+<Window x:Class="AdvancedCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Advanced Calculator" Height="450" Width="400">
+    <Grid>
+        <TextBox Name="display" HorizontalAlignment="Stretch" VerticalAlignment="Top" Height="50" FontSize="24" Margin="10"/>
+        <Button Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" Margin="10,70,0,0" Click="Button_Click"/>
+        <Button Content="2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" Margin="70,70,0,0" Click="Button_Click"/>
+        <Button Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" Margin="130,70,0,0" Click="Button_Click"/>
+        <!-- Weitere Tasten hier -->
+        <Button Content="History" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="50" Margin="250,70,0,0" Click="HistoryButton_Click"/>
+    </Grid>
+</Window>
